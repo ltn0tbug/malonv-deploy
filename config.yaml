@@ -1,0 +1,7 @@
+version: "1.0"
+support: "tensorflow"
+model:
+  name: "malconv"
+  max_size: 2_000_000
+  kernel_size: 500
+  stride_size: 500
